@@ -5,7 +5,6 @@ P.S: I usually take notes with Obsidian and then convert the Markdown files to P
 
 ## Courses|
 The following courses are included in this repository:
-(path to the course folder): # Path: fau_summaries/Courses/
 - [Pattern Analysis](Pattern%20Analysis)
 - [Reinforcement Learning](Reinforcement%20Learning)
 
