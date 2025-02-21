@@ -7,4 +7,4 @@ P.S: I usually take notes with Obsidian and then convert the Markdown files to P
 The following courses are included in this repository:
 - [Pattern Analysis](Pattern%20Analysis)
 - [Reinforcement Learning](Reinforcement%20Learning)
-
+- [Image, Video, and Multidimensional Signal Processing](IVMSP)
